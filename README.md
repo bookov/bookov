@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bookov
 - 👀 I’m interested in 3D, music production
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning BBC: MicroBit controller coding
 - 💞️ I’m looking to collaborate on awesome stuff
 - 📫 How to reach me: kastianchiik@gmail.com - personal, bokov@boxplaystudios.com - work
 - 😄 Pronouns: B U K O V
